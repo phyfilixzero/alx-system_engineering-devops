@@ -12,4 +12,6 @@ a script that displays current directory content
 
 a script that creates a directory named my_first_directory in the /tmp/ directory
 
-a script that Move the file betty from /tmp/ to /tmp/my_first_directory        
+a script that Move the file betty from /tmp/ to /tmp/my_first_directory 
+
+a script to delete file betty from /tmp/my_first_directory       
