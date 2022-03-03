@@ -8,6 +8,8 @@ a script that list files in a long format
 
 a script that displays current directry content including hidden files in long format                                                   
 
-a script that displays current directory content
+a script that displays current directory content                                                                                        
 
 a script that creates a directory named my_first_directory in the /tmp/ directory
+
+a script that Move the file betty from /tmp/ to /tmp/my_first_directory        
