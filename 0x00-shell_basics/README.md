@@ -18,4 +18,6 @@ a script to delete file betty from /tmp/my_first_directory
 
 a script to delete the directory my_first_directory in /tmp/
 
-a script to change the working directory to the prvious one 
+a script to change the working directory to the prvious one
+
+a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
