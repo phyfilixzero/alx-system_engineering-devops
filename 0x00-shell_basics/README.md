@@ -25,3 +25,5 @@ a script that lists all files (even ones with names beginning with a period char
 a script that prints the type of the file named iamafile.
 
 a script that Creates a symbolic link to /bin/ls, named __ls__
+
+a script that Creates a script that copies all the HTML files from the current working directory to the parent of the working directory
