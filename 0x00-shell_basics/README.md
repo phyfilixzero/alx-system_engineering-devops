@@ -27,3 +27,5 @@ a script that prints the type of the file named iamafile.
 a script that Creates a symbolic link to /bin/ls, named __ls__
 
 a script that Creates a script that copies all the HTML files from the current working directory to the parent of the working directory
+
+a script that moves all files beginning with an uppercase letter to the directory /tmp/u
