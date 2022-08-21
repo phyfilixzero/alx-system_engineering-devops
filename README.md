@@ -1,1 +1,3 @@
-this project ia an alx test to practice bash scripts
+# System engineering DevOps
+
+This project automate some commands from the linux terminal
