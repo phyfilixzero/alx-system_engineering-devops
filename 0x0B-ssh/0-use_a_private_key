@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Use ssh to connect to your server using private key
-ssh -i ~/.ssh/holberton ubuntu@34.75.10.160
+# A Bash script that uses ssh to connect to my server using the private key ~/.ssh/holberton with the user ubuntu
+
+ssh -i ~/.ssh/holberton ubuntu@34.239.174.96
